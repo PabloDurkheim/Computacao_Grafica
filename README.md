@@ -19,4 +19,4 @@ Controle de Câmera: A câmera pode ser movida e ajustada em tempo real para exp
 
 ### Como Executar
 * Certifique-se de ter as bibliotecas SDL, OpenGL, SOIL e GLUT instaladas.
-* Use esse comando no terminal: 
+* Use esse comando no terminal: gcc jupiter.c -o jupiter -lGL -lGLU -lglut -lSOIL -lSDL -lSDLmain -lSDL_image -lSDL_mixer -lm
