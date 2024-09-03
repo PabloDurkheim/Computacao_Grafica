@@ -1,0 +1,2 @@
+gcc jupiter.c -o jupiter -lGL -lGLU -lglut -lSOIL -lSDL -lSDLmain -lSDL_image -lSDL_mixer -lm
+
