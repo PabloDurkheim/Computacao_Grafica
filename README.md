@@ -1,5 +1,5 @@
 # Simulação do Sistema de Júpiter e Suas Luas Galileanas
-Este projeto foi desenvolvido como parte da disciplina de Computação Gráfica do curso de Engenharia de Computação na Universidade Federal do Rio Grande do Norte (UFRN). Ele consiste em uma simulação gráfica do planeta Júpiter e suas quatro luas galileanas: Io, Europa, Ganimedes e Calisto, utilizando OpenGL.
+Este projeto foi desenvolvido durante a disciplina de Computação Gráfica do curso de Engenharia de Computação na Universidade Federal do Rio Grande do Norte (UFRN). Ele consiste em uma simulação gráfica do planeta Júpiter e suas quatro luas galileanas: Io, Europa, Ganimedes e Calisto, utilizando OpenGL.
 
 ## Descrição do Projeto
 A simulação visa recriar visualmente Júpiter e suas luas, destacando aspectos como rotação e translação dos corpos celestes, além de aplicar texturas realistas às superfícies. A câmera é configurada para permitir uma visão dinâmica, com modos de visualização que seguem o cursor ou se mantêm estáticos
